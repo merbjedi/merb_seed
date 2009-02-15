@@ -10,7 +10,7 @@ hopefully the most robust seed data system around.
 Support
 =======
 
-merb_seed 0.1 currently only supports datamapper. ActiveRecord and Sequel support 
+merb_seed 0.1 currently only supports datamapper. ActiveRecord and Sequel support coming soon
 
 
 Usage
