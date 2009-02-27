@@ -1,4 +1,4 @@
-require 'datamapper'
+require 'dm-core'
 
 # setup repository
 DataMapper.setup(:default, "sqlite3::memory:")

@@ -1,4 +1,4 @@
-require 'datamapper'
+require 'dm-core'
 
 module DataMapper::Model
   # Creates a single record of seed data for use
